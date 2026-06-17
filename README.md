@@ -155,17 +155,26 @@ This project demonstrates:
 Add screenshots here:
 
 * Home Screen
+  <img width="262" height="565" alt="image" src="https://github.com/user-attachments/assets/0318861b-e906-40cc-8f83-8ada2f81f59a" />
+
 * Recipe Details Screen
+  <img width="276" height="556" alt="image" src="https://github.com/user-attachments/assets/e8099d61-64b3-49cd-968a-a7032856e881" />
+
 * Favorites Screen
+  <img width="266" height="551" alt="image" src="https://github.com/user-attachments/assets/3628a653-8e8b-4d5f-acea-2c6153c52298" />
+
 * Meal Planner Screen
+  <img width="264" height="554" alt="image" src="https://github.com/user-attachments/assets/6eb68c7a-b2b6-4913-a3d4-704ab3786635" />
+
 * Analytics Dashboard
+<img width="251" height="544" alt="image" src="https://github.com/user-attachments/assets/7b39ba95-eff3-4cda-97d1-f94d2f5785c9" />
 
 
  👩‍💻 Developed By
-
-Ayesha Noor
+             Ayesha 
 
 Flutter Developer | Computer Scienceb Student
 
 
 ⭐ If you found this project useful, don't forget to star the repository!
+<img width="262" height="565" alt="image" src="https://github.com/user-attachments/assets/22036e7f-b447-418a-b4e9-19f354346c36" />
